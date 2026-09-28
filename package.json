@@ -1,0 +1,21 @@
+{
+  "name": "praktikum-rsi-2026",
+  "version": "1.0.0",
+  "description": "Repository latihan (_hands-on_) pendamping situs materi **Praktikum Rekayasa Sistem Informasi**, FATISDA UNS. Setiap folder hands-on berisi kode referensi yang lengkap dan bisa langsung dijalankan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrrambatsigma/praktikum-rsi-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rrrambatsigma/praktikum-rsi-2026/issues"
+  },
+  "homepage": "https://github.com/rrrambatsigma/praktikum-rsi-2026#readme"
+}
